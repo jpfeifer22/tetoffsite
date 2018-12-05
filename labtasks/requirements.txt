@@ -1,0 +1,4 @@
+tetpyclient
+pydot
+terminaltables
+pandas
